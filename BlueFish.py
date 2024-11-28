@@ -208,7 +208,7 @@ def main():
         return
 
     # Create base output directory
-    base_output_dir = "BlueFish_Resultsv4"
+    base_output_dir = "BlueFish_Results"
     create_directory(base_output_dir)
 
     # Prepare tasks for multiprocessing
