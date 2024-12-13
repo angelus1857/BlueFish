@@ -19,6 +19,7 @@ BlueFish streamlines the process of PCAP analysis, making it easier for security
 ## INSTALLATION STEPS
       $ git clone https://github.com/emrekybs0/BlueFish.git
       $ cd BlueFish
+      (you will need to have tshark installed)
       $ python3 BlueFish.py -f path/to/folder/of/pcaps -p int (4 is default)
 
 ## HELP
